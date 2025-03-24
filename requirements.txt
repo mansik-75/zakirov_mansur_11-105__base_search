@@ -1,1 +1,4 @@
 requests~=2.32.0
+nltk
+beautifulsoup4
+pymystem3
